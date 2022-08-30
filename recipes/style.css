@@ -1,8 +1,12 @@
+/*title of the page*/
+
 #title{
     font-family:"Times New Roman", Georgia, sans-serif;
     font-size: 320%;
     color:#14C38E;
 }
+
+/*menu*/
 
 .list-styles{
     list-style-type: square;
