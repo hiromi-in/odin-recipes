@@ -3,8 +3,19 @@
 #title{
     font-family:"Times New Roman", Georgia, sans-serif;
     font-size: 120px;
-    color:#14C38E;
+    color:#A8BAA9;
 }
+
+body{
+    display: flex;
+    justify-content: space-around;
+}
+
+.girl{
+    min-height: 100vh;
+    width: auto;
+}
+
 
 /*menu*/
 
@@ -39,15 +50,6 @@ body{
 }
 */
 
-body{
-    display: flex;
-    justify-content: space-around;
-}
-
-.girl{
-    min-height: 100vh;
-    width: auto;
-}
 
 #mocha, #chai-latte, #matcha-latte{
     height: 110px;
@@ -66,10 +68,12 @@ body{
     font-size: 20px;
 }
 
-
-
 #title_welcome{
     margin-left: 60px;
+}
+
+p{
+    color: #806854;
 }
 
 

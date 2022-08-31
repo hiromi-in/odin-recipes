@@ -5,12 +5,40 @@ body{
     border-color: #DBCDAD;
 }
 
+h1{
+    font-size: 60px;
+    color: #806854;
+}
 
+p, li{
+    font-size: large;
+    color: #806854;
+    line-height: 1.5em;
+}
 
+h4{
+    font-size: x-large;
+    color: #3C301C;
+}
 
 .girl{
    display: block;
    margin-left: auto;
-   height: 400px;
+   height: 350px;
    width: auto;
+}
+
+.cake{
+    display: block;
+    margin-left: auto;
+    height: 250px;
+    width: auto;
+}
+
+ul{
+    list-style-type: circle;
+}
+
+.drink{
+    width: 100%;
 }
