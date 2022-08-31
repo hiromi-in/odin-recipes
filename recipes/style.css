@@ -52,8 +52,8 @@ body{
 #mocha, #chai-latte, #matcha-latte{
     height: 110px;
     width: 195px;
-    padding: 25px;
-    border-radius: 40px;
+    padding:0 25px;
+    border-radius: 35px;
 }
 
 #menu{
@@ -67,7 +67,6 @@ body{
 }
 
 
-body {margin:25px;}
 
 #title_welcome{
     margin-left: 60px;
