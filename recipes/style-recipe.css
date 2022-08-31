@@ -1,0 +1,16 @@
+body{
+    margin: 3% 10%;
+    padding: 30px;
+    border-style: groove;
+    border-color: #DBCDAD;
+}
+
+
+
+
+.girl{
+   display: block;
+   margin-left: auto;
+   height: 400px;
+   width: auto;
+}
