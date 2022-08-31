@@ -39,6 +39,12 @@ body{
    
 }
 
+.list-styles img:hover{
+    
+    background: #E5DCBC; 
+    box-shadow: 0 0 100px #E5DCBC; 
+}
+
 /*
 body{
     background: url("../images/coffee.jpg") no-repeat center center fixed;
@@ -75,6 +81,7 @@ body{
 p{
     color: #806854;
 }
+
 
 
 
