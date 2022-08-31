@@ -2,15 +2,19 @@
 
 #title{
     font-family:"Times New Roman", Georgia, sans-serif;
-    font-size: 320%;
+    font-size: 120px;
     color:#14C38E;
 }
 
 /*menu*/
 
 .list-styles{
-    list-style-type: square;
+    list-style-type: none;
     font-size:120%;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    margin-left: 0;
 }
 
 /*
@@ -27,4 +31,26 @@ body{
 body{
     display: flex;
     justify-content: space-around;
+}
+
+.girl{
+    min-height: 100vh;
+    width: auto;
+}
+
+#mocha, #chai-latte, #matcha-latte{
+    height: 100px;
+    width: auto;
+    padding: 10px;
+}
+
+#menu{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+#menu #welcome{
+    font-size: 20px;
+    
 }
