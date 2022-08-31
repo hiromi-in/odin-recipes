@@ -17,6 +17,17 @@
     margin-left: 0;
 }
 
+.list-styles p{
+    padding-top: 0;
+    margin-top: 0;
+}
+
+.list-styles img{
+    margin: 0;
+    padding: 0;
+   
+}
+
 /*
 body{
     background: url("../images/coffee.jpg") no-repeat center center fixed;
@@ -40,8 +51,9 @@ body{
 
 #mocha, #chai-latte, #matcha-latte{
     height: 100px;
-    width: auto;
+    width: 180px;
     padding: 10px;
+    border-radius: 15px;
 }
 
 #menu{
@@ -52,5 +64,7 @@ body{
 
 #menu #welcome{
     font-size: 20px;
-    
 }
+
+
+  body {margin:25px;}
