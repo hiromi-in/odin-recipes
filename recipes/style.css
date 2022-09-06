@@ -7,6 +7,7 @@
     font-family:"Times New Roman", Georgia, sans-serif;
     font-size: 120px;
     color:#A8BAA9;
+    margin-top: 10rem;
 }
 
 body{
@@ -67,6 +68,7 @@ body{
     height: 110px;
     width: 195px;
     padding:0 25px;
+    
     border-radius: 35px;
 }
 
@@ -74,7 +76,7 @@ body{
 #menu{
     display: flex;
     flex-direction: column;
-    justify-content: space-evenly;
+    justify-content: space-between;
 }
 
 #menu #welcome{
@@ -93,6 +95,7 @@ p{
 li{
     display: flex;
     flex-direction: column;
+    margin-bottom: 100px;
 }
 
 
